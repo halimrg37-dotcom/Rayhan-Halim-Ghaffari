@@ -1,0 +1,21 @@
+*  {
+    font-family: Montserrat;
+}
+
+body {
+    background-color: #fdf6e3;
+}
+
+.btn {
+    background-color: gray;
+    color: black;
+    padding: 8px 8px;
+}
+
+
+.btn-alt {
+    background-color: gray;
+    color: black;
+    padding: 8px 8px;
+}
+
